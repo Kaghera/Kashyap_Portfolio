@@ -86,11 +86,6 @@ export const footerData = {
       name: 'github',
       url: 'https://github.com/Kaghera',
     },
-    {
-      id: nanoid(),
-      name: 'twitter',
-      url: '',
-    },
   ],
 };
 
