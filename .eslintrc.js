@@ -5,6 +5,7 @@ module.exports = {
     browser: true,
     es6: true,
   },
+
   rules: {
     'import/no-extraneous-dependencies': 'off',
     'prettier/prettier': 'error',
