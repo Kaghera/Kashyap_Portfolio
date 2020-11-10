@@ -69,16 +69,26 @@ export const projectsData = [
     url: 'https://secure-lake-15298.herokuapp.com/',
     repo: 'https://github.com/Kaghera/Fitness-Tracker',
   },
-  // {
-  //   id: nanoid(),
-  //   img: 'budgettracker.png',
-  //   title: 'Budget Tracker',
-  //   info:
-  //     '',
-  //   info2: '',
-  //   url: '',
-  //   repo: '',
-  // },
+  {
+    id: nanoid(),
+    img: 'budgettracker.png',
+    title: 'Budget Tracker',
+    info:
+      'Budget Tracker app allows users to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.',
+    info2: '',
+    url: 'https://blooming-chamber-18073.herokuapp.com/',
+    repo: 'https://github.com/Kaghera/Track-My-Budget',
+  },
+  {
+    id: nanoid(),
+    img: 'eatdaburgers.png',
+    title: 'Eat Da Burgers',
+    info:
+      "Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat. It also gives users an option to order again.",
+    info2: '',
+    url: 'https://github.com/Kaghera/Add-Da-Burgers',
+    repo: 'https://serene-basin-52301.herokuapp.com/index',
+  },
 ];
 
 // CONTACT DATA

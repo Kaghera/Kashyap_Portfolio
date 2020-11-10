@@ -16,7 +16,12 @@ const Contact = () => {
           <div className="contact-wrapper">
             <p className="contact-wrapper__text">
               {cta || 'Would you like to work with me? Awesome!'}
+              <br />
+              {cta || 'Email: kaagh.10@gmail.com'}
+              <br />
+              {cta || 'Phone: +1 (226) 799 0698'}
             </p>
+
             <a
               target="_blank"
               rel="noopener noreferrer"
