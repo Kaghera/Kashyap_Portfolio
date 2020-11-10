@@ -86,8 +86,8 @@ export const projectsData = [
     info:
       "Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat. It also gives users an option to order again.",
     info2: '',
-    url: 'https://github.com/Kaghera/Add-Da-Burgers',
-    repo: 'https://serene-basin-52301.herokuapp.com/index',
+    url: 'https://serene-basin-52301.herokuapp.com/index',
+    repo: 'https://github.com/Kaghera/Add-Da-Burgers',
   },
 ];
 
