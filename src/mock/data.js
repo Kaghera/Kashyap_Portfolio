@@ -59,6 +59,26 @@ export const projectsData = [
     url: 'https://kaghera.github.io/Day-Planner/',
     repo: 'https://github.com/Kaghera/Day-Planner',
   },
+  {
+    id: nanoid(),
+    img: 'fitnesstracker.png',
+    title: 'Fitness Tracker',
+    info:
+      'Fitness Tracker allows users to create and track daily workouts and to log multiple exercises on a given day.',
+    info2: '',
+    url: 'https://secure-lake-15298.herokuapp.com/',
+    repo: 'https://github.com/Kaghera/Fitness-Tracker',
+  },
+  // {
+  //   id: nanoid(),
+  //   img: 'budgettracker.png',
+  //   title: 'Budget Tracker',
+  //   info:
+  //     '',
+  //   info2: '',
+  //   url: '',
+  //   repo: '',
+  // },
 ];
 
 // CONTACT DATA
