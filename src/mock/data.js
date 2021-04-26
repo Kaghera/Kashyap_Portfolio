@@ -19,10 +19,10 @@ export const heroData = {
 export const aboutData = {
   img: 'kash.png',
   paragraphOne:
-    "I'm a Full Stack Web Developer with a science background that has skills in both the front-end of web applications as well as the back-end.",
+    "I'm a Web Developer/Designer with a science background that has skills in both the front-end of web applications as well as the back-end.",
   paragraphTwo: 'I am very passionate about building software and creating effective solutions.',
   paragraphThree:
-    'Always eager to learn new skills and knowledge related programming that I can share with the world to utilize.',
+    'Always eager to learn new skills and knowledge related programming and designing that I can share with the world to utilize.',
   resume:
     'https://docs.google.com/document/d/1z-BxhHD5Cu-aNbMkFEP4_syzfFkmf2lxBaXbZZgjg-0/edit?usp=sharing',
 };
@@ -51,6 +51,16 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'ShopSmartSS.png',
+    title: 'Shop Smart',
+    info:
+      'Shop Smart is an online e-commerce platform for selling electronics, health & wellness, and beauty products.',
+    info2: '',
+    url: 'https://glacial-garden-86471.herokuapp.com',
+    repo: 'https://github.com/Kaghera/ShopSmart',
+  },
+  {
+    id: nanoid(),
     img: 'dayplanner.png',
     title: 'Day Planner',
     info:
@@ -71,23 +81,12 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'budgettracker.png',
-    title: 'Budget Tracker',
-    info:
-      'Budget Tracker app allows users to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.',
+    img: 'Gotham.jpg',
+    title: 'GOTham',
+    info: 'An online blog and articles publishing platfom for users across the world.',
     info2: '',
-    url: 'https://blooming-chamber-18073.herokuapp.com/',
-    repo: 'https://github.com/Kaghera/Track-My-Budget',
-  },
-  {
-    id: nanoid(),
-    img: 'eatdaburgers.png',
-    title: 'Eat Da Burgers',
-    info:
-      "Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat. It also gives users an option to order again.",
-    info2: '',
-    url: 'https://serene-basin-52301.herokuapp.com/index',
-    repo: 'https://github.com/Kaghera/Add-Da-Burgers',
+    url: 'https://kaghera.github.io/Go_tham/',
+    repo: 'https://github.com/Kaghera/Go_tham',
   },
 ];
 
