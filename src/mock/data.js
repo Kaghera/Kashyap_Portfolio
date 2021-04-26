@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'kash.png',
   paragraphOne:
-    "I'm a Web Developer/Designer with a science background that has skills in both the front-end of web applications as well as the back-end.",
+    "I'm a Front End Web Developer/Designer with a science background that has skills in both the front-end of web applications as well as the back-end.",
   paragraphTwo: 'I am very passionate about building software and creating effective solutions.',
   paragraphThree:
     'Always eager to learn new skills and knowledge related programming and designing that I can share with the world to utilize.',
